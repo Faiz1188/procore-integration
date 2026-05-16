@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 fastapi
 uvicorn
 httpx
 python-dotenv
 psycopg2-binary
-=======
+
 annotated-doc==0.0.4
 annotated-types==0.7.0
 anyio==4.13.0
@@ -23,4 +23,4 @@ starlette==1.0.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 uvicorn==0.47.0
->>>>>>> 9f691a5c8baca5cb5c80126cb7141c08d41602cc
+
